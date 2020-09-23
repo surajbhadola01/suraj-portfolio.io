@@ -1,0 +1,157 @@
+<section class="home_gallery_area p_120" id="project">
+        	<div class="container">
+        		<div class="main_title">
+        			<h2>My Projects Gallery</h2>
+        			<p>These are some of my projects showcase.</p>
+<p>Have a Look</p>
+        		</div>
+        		<!-- <div class="isotope_fillter"> -->
+        			<!-- <ul class="gallery_filter list"> -->
+						<!-- <li class="active" data-filter="*"><a href="#">All</a></li> -->
+						<!-- <li data-filter=".brand"><a href="#">Vector</a></li> -->
+						<!-- <li data-filter=".manipul"><a href="#">Raster</a></li> -->
+						<!-- <li data-filter=".creative"><a href="#">UI/UX</a></li> -->
+						<!-- <li data-filter=".design"><a href="#">Printing</a></li> -->
+					<!-- </ul> -->
+        		<!-- </div> -->
+        	</div>
+        	<div class="container">
+        		<div class="gallery_f_inner row ">
+					<div class="col-lg-4 col-md-4 col-sm-6 brand manipul design"> 
+        				 <div class="h_gallery_item"> 
+        					 <div class="g_img_item"> 
+        						 <img class="img-fluid" src="img/gallery/project-5.jpg" alt=""> 
+        						<a class="light" href="http://bhadola.cloudaccess.host/"><img src="img/gallery/icon.png" alt=""></a>
+        					 </div> 
+        					<div class="g_item_text"> 
+        						 <h4>eCommerce Website</h4>
+        						<p>Wordpress Project</p>
+        					 </div> 
+        				</div> 
+        			</div> 
+			
+        				<div class="col-lg-4 col-md-4 col-sm-6 brand manipul design print">
+        				<div class="h_gallery_item">
+        					<div class="g_img_item">
+        						<img class="img-fluid" src="img/gallery/project-6.jpg" alt="">
+							<a class="light" href="https://surajbhadola01.github.io/business.io/"><img src="img/gallery/icon.png" alt=""></a> 
+        						
+        					</div>
+        					<div class="g_item_text">
+							<h4>Business Website</h4>
+        						<p>Demo Project</p>
+        					</div>
+        				</div>
+        			</div>
+        			
+        			
+        			<div class="col-lg-4 col-md-4 col-sm-6 brand manipul design print">
+        				<div class="h_gallery_item">
+        					<div class="g_img_item">
+        						<img class="img-fluid" src="img/gallery/project-1.jpg" alt="">
+        						<a class="light" href="https://surajbhadola01.github.io/show.github.io/"><img src="img/gallery/icon.png" alt=""></a>
+        					</div>
+        					<div class="g_item_text">
+        						<h4>Concert Booking Landing Page</h4>
+        						<p>Client Project</p>
+        					</div>
+        				</div>
+        			</div>
+        		
+			<div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
+        				<div class="h_gallery_item">
+        					<div class="g_img_item">
+        						<img class="img-fluid" src="img/gallery/project-3.jpg" alt="">
+        						<a class="light" href="https://surajbhadola01.github.io/bootstrap-template.io/."><img src="img/gallery/icon.png" alt=""></a>
+        					</div>
+        					<div class="g_item_text">
+        						<h4>Business Website</h4>
+        						<p>Demo Project</p>
+        					</div>
+        				</div>
+        			</div>
+			<div class="col-lg-4 col-md-4 col-sm-6 brand manipul creative">
+        				<div class="h_gallery_item">
+        					<div class="g_img_item">
+        						<img class="img-fluid" src="img/gallery/project-2.jpg" alt="">
+        						<a class="light" href="https://surajbhadola01.github.io/microsoft-website-clone.io/"><img src="img/gallery/icon.png" alt=""></a>
+        					</div>
+        					<div class="g_item_text">
+        						<h4>Microsoft Home Page  </h4>
+        						<p>Clone Website Project</p>
+        					</div>
+        				</div>
+        			</div>
+        			<!-- <div class="col-lg-4 col-md-4 col-sm-6 brand creative"> -->
+        				<!-- <div class="h_gallery_item"> -->
+        					<!-- <div class="g_img_item"> -->
+        						<!-- <img class="img-fluid" src="img/gallery/project-6.jpg" alt=""> -->
+        						<!-- <a class="light" href="img/gallery/project-6.jpg"><img src="img/gallery/icon.png" alt=""></a> -->
+        					<!-- </div> -->
+        					<!-- <div class="g_item_text"> -->
+        						<!-- <h4>3D Logo Design</h4> -->
+        						<!-- <! -- <p>Client Project</p> --> 
+        					<!-- </div> -->
+        				<!-- </div> -->
+        			<!-- </div> -->
+        		<!-- </div> -->
+        		<!-- <div class="more_btn"> -->
+        			<!-- <a class="main_btn" href="#">Load More Items</a> -->
+        		<!-- </div> -->
+        	</div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+		<div class="row">
+                    <div class="col-lg-3">
+                        <div class="contact_info">
+                            <!-- <div class="info_item"> -->
+                                <!-- <i class="lnr lnr-home"></i> -->
+                                <!-- <h6>California, United States</h6> -->
+                                <!-- <p>Santa monica bullevard</p> -->
+                            <!-- </div> -->
+                            <!-- <div class="info_item"> -->
+                                <!-- <i class="lnr lnr-phone-handset"></i> -->
+                                <!-- <h6><a href="#">00 (440) 9865 562</a></h6> -->
+                                <!-- <p>Mon to Fri 9am to 6 pm</p> -->
+                            <!-- </div> -->
+                            <div class="info_item">
+                                <i class="lnr lnr-envelope"></i>
+                                <h6><a href="#">surajbhadola954@gmail.com</a></h6>
+                                <p>Send us your query anytime!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <form class="row contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name">
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="email" name="email" placeholder="Enter email address">
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="subject" name="subject" placeholder="Enter Subject">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <textarea class="form-control" name="message" id="message" rows="1" placeholder="Enter Message"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-md-12 text-right">
+                                <button type="submit" value="submit" class="btn submit_btn" disabled>Send Message</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
