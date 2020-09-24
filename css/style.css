@@ -3044,13 +3044,14 @@ h6 {
 
 .gallary-section button {
 	transition: all 400ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
-  box-shadow: rgb(58, 208, 50) 0 0px 0px 40px inset;
+  box-shadow: rgb(228, 51, 148) 0 0px 0px 40px inset;
   border: none;
   background: transparent;
   margin-top: 5%;
   width: 76%;
   padding: 1%;
   border-radius: 5px;
+  color:#fff;
 }
 
 .gallary-section button:hover {
